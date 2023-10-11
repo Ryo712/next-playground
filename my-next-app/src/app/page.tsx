@@ -1,4 +1,7 @@
-// pages/index.js
-export default function Home() {
-  return <div>Hello, World!</div>
+import React from 'react';
+
+function MyPage() {
+  return <div>Hello, World!</div>;
 }
+
+export default MyPage;
